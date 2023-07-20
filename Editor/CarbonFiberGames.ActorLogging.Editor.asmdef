@@ -1,0 +1,20 @@
+{
+    "name": "CarbonFiberGames.ActorLogging.Editor",
+    "rootNamespace": "VaporActorLogging.Editor",
+    "references": [
+        "GUID:4a0c4ef551b087b4c8c5261f9f9b8974"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ODIN_INSPECTOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

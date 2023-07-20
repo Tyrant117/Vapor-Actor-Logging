@@ -1,0 +1,14 @@
+{
+    "name": "com.carbonfibergames.vaporactorlogging",
+    "version": "1.0.0",
+    "displayName": "Vapor Actor Logging",
+    "description": "Simple per actor logging system.",
+    "unity": "2021.3",
+    "keywords": [
+      "Logging"
+    ],
+    "author": {
+      "name": "Carbon Fiber Games LLC"
+    },
+    "hideInEditor": false
+  }
